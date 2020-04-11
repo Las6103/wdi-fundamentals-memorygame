@@ -121,3 +121,14 @@ footer {
   color: #f15b31;
   font-weight: bold;
 }
+
+button {
+  padding: 20px 30px;
+  background-color: #f15b31;
+  border: 6px solid #00a6b3;
+  border-radius: 14px;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  color: white;
+  font-weight: 500;
+}
